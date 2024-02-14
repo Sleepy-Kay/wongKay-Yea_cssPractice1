@@ -1,0 +1,23 @@
+body { 
+  background-color: #1696a3;
+  color:#FFFFFF;
+ 
+}
+
+p {
+   color: #eb7f00
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  font-size:40px;
+  font-weight: bold;
+  color: #EB7F00;
+}
+
+a {
+  text-decoration: none;
+}
